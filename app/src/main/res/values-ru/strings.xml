@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Премиум Погода</string>
+    <string name="search_city">Поиск города</string>
+    <string name="favorites">Избранное</string>
+    <string name="settings">Настройки</string>
+    <string name="refresh">Обновить</string>
+    <string name="offline_banner">Оффлайн - показаны сохранённые данные</string>
+    <string name="error_retry">Повторить</string>
+    <string name="humidity">Влажность</string>
+    <string name="wind">Ветер</string>
+    <string name="pressure">Давление</string>
+    <string name="visibility">Видимость</string>
+    <string name="cloud_cover">Облачность</string>
+    <string name="uv_index">УФ-индекс</string>
+    <string name="precipitation">Осадки</string>
+    <string name="feels_like">Ощущается как</string>
+    <string name="high_low">Макс / Мин</string>
+    <string name="hourly">По часам</string>
+    <string name="daily">Прогноз на 7 дней</string>
+    <string name="share">Поделиться</string>
+    <string name="my_location">Моё местоположение</string>
+</resources>

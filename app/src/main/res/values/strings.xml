@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Premium Weather</string>
+    <string name="search_city">Search city</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
+    <string name="refresh">Refresh</string>
+    <string name="offline_banner">Offline - showing cached data</string>
+    <string name="error_retry">Retry</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="visibility">Visibility</string>
+    <string name="cloud_cover">Cloud cover</string>
+    <string name="uv_index">UV Index</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="feels_like">Feels like</string>
+    <string name="high_low">High / Low</string>
+    <string name="hourly">Hourly</string>
+    <string name="daily">7-day forecast</string>
+    <string name="share">Share</string>
+    <string name="my_location">My location</string>
+    <string name="current_temp_desc">Current temperature %1$s degrees</string>
+    <string name="rain_prob_desc">Rain probability %1$d percent</string>
+    <string name="wind_desc">Wind %1$s from %2$s</string>
+</resources>

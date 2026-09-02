@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Premium Hava</string>
+    <string name="search_city">Şəhər axtar</string>
+    <string name="favorites">Sevimlilər</string>
+    <string name="settings">Parametrlər</string>
+    <string name="refresh">Yenilə</string>
+    <string name="offline_banner">Oflayn - keş göstərilir</string>
+    <string name="error_retry">Yenidən cəhd</string>
+    <string name="humidity">Rütubət</string>
+    <string name="wind">Külək</string>
+    <string name="pressure">Təzyiq</string>
+    <string name="visibility">Görünüş</string>
+    <string name="cloud_cover">Buludluluq</string>
+    <string name="uv_index">UB indeks</string>
+    <string name="precipitation">Yağıntı</string>
+    <string name="feels_like">Hiss olunur</string>
+    <string name="high_low">Maks / Min</string>
+    <string name="hourly">Saatlıq</string>
+    <string name="daily">7 günlük proqnoz</string>
+    <string name="share">Paylaş</string>
+    <string name="my_location">Mənim məkanım</string>
+</resources>

@@ -1,0 +1,9 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Original logo: sun + cloud minimal -->
+    <group android:translateX="22" android:translateY="22">
+        <path android:fillColor="#FFFFFFFF" android:pathData="M32,8 A24,24 0 1,0 32,56 A24,24 0 1,0 32,8 Z" android:fillAlpha="0.95"/>
+        <path android:fillColor="#FFFFFFFF" android:pathData="M8,44 Q12,28 28,28 Q36,20 48,28 Q56,28 56,36 Q56,48 44,48 L12,48 Q8,48 8,44 Z" android:fillAlpha="0.9"/>
+    </group>
+</vector>

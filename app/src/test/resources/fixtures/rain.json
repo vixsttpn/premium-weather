@@ -1,0 +1,16 @@
+{
+  "latitude": 40.4,
+  "longitude": 49.8,
+  "timezone": "Asia/Baku",
+  "current": {
+    "time": "2024-06-01T12:00",
+    "temperature_2m": 18.5,
+    "relative_humidity_2m": 85,
+    "is_day": 1,
+    "precipitation": 2.5,
+    "weather_code": 63,
+    "wind_speed_10m": 15.0
+  },
+  "hourly": { "time": [], "temperature_2m": [], "weather_code": [], "is_day": [], "precipitation_probability": [], "wind_speed_10m": [] },
+  "daily": { "time": [], "weather_code": [], "temperature_2m_max": [], "temperature_2m_min": [], "sunrise": [], "sunset": [] }
+}
